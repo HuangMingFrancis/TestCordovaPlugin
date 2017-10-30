@@ -1,0 +1,22 @@
+{
+  "name": "test_cordova_plugin",
+  "version": "1.0.0",
+  "description": "cordova plugin barcode scanner 56n",
+  "cordova": {
+    "id": "test_cordova_plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuangMingFrancis/barcode_scanner_56n.git"
+  },
+  "keywords": [
+    "plugin",
+    "scanner"
+  ],
+  "author": "Francis.Huang",
+  "license": "Apache 2.0"
+}
